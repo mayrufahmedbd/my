@@ -105,7 +105,8 @@
 
 /*** Header ***/
 #home {
-    margin-bottom: 6rem;
+    height: 100dvh;
+    margin-bottom: 2rem;
     background: url(../img/bg-header.png) left top no-repeat;
 }
 
